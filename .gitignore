@@ -1,0 +1,7 @@
+# Ignore unnecessary or generated files
+node_modules/
+dist/
+.DS_Store
+Thumbs.db
+# YML files to configure CI/CD pipelines
+*.yml
